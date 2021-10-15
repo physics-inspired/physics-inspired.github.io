@@ -18,8 +18,7 @@ navbar-links:
   Codes: "https://github.com/physics-inspired"
   Research: "research"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Examples: examples
   #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
